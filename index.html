@@ -63,9 +63,9 @@
                     <li class="page-scroll">
                         <a href="#servicios">Servicios</a>
                     </li>
-                    <li class="page-scroll">
+                    <!--<li class="page-scroll">
                         <a href="#proyectos">Últimos proyectos</a>
-                    </li>
+                    </li>-->
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" id="desplegable" data-toggle="dropdown">Proyectos<span class="fa fa-angle-down"></span></a>
                         <ul class="dropdown-menu" role="menu">
@@ -826,7 +826,9 @@ Entendiendo la relación entre precio y calidad, ofrecemos un balance adecuado e
                         <p class="texto-foo-contacto">
                         Llena el siguiente formulario y uno de nuestros asesores te contactará.
                         </p>
-                        <form name="sentMessage" id="contactForm" novalidate>
+                        <div class="alert alert-success d-none" id="mensajeExito">Gracias, pronto te escribiremos.</div>
+                        <div class="alert alert-danger d-none" id="mensajeError"></div>
+                        <form name="sentMessage" id="formulario" novalidate>
                             <div class="row control-group">
                                 <div class="form-group col-xs-12  controls">
                                     <input type="text" class="form-control" placeholder="Nombre" id="name" required data-validation-required-message="Please enter your name.">
