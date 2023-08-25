@@ -114,7 +114,7 @@
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
                     <h3 class="titulares-blancos">
-                    ¿Por qué elegir Bildr como tu constructora?
+                    Proyecto la sexta
                     </h3> <br><br>
                 </div>
                 <div class="col-md-1"></div>
