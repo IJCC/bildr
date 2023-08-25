@@ -65,7 +65,7 @@ $cuerpo .= $mensaje;
 $cuerpo .= "\n";
 
 //DIRECCIÓN
-$enviarA = 'ventas@skytech.com.mx'; 
+$enviarA = 'admon@bildr.mx'; 
 $asunto = 'Nuevo mensaje para BILDR';
 
 //ENVIAR CORREO
