@@ -29,10 +29,10 @@ if(empty($_POST["telefono"])){
     $error .= 'Ingresa un Teléfono</br>';
 }else{
     $telefono = $_POST["telefono"];
-    if(!filter_var($telefono,FILTER_VALIDATE_EMAIL)){
-        $error .= 'Ingresa un Teléfono verdadero</br>';
-    }else{
-        $telefono = filter_var($telefono,FILTER_SANITIZE_EMAIL);
+    $telefono = filter_var($telefono, FILTER_SANITIZE_STRING);
+    $telefono = trim($telefono);
+    if($telefono==''){
+        $error .= 'Teléfono está vacio</br>';
     }
 }
 //VALIDANDO MENSAJE
