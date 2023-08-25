@@ -24,6 +24,17 @@ if(empty($_POST["email"])){
         $email = filter_var($email,FILTER_SANITIZE_EMAIL);
     }
 }
+//VALIDANDO TELÉFONO
+if(empty($_POST["telefono"])){
+    $error .= 'Ingresa un Teléfono</br>';
+}else{
+    $telefono = $_POST["telefono"];
+    if(!filter_var($telefono,FILTER_VALIDATE_EMAIL)){
+        $error .= 'Ingresa un Teléfono verdadero</br>';
+    }else{
+        $telefono = filter_var($telefono,FILTER_SANITIZE_EMAIL);
+    }
+}
 //VALIDANDO MENSAJE
 if(empty($_POST["mensaje"])){
     $error .= 'Ingresa un mensaje </br>';
@@ -43,6 +54,10 @@ $cuerpo .= "\n";
  
 $cuerpo .= "Email: ";
 $cuerpo .= $email;
+$cuerpo .= "\n";
+
+$cuerpo .= "Telefono: ";
+$cuerpo .= $telefono;
 $cuerpo .= "\n";
  
 $cuerpo .= "Mensaje: ";
