@@ -46,7 +46,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="#page-top">
+                <a class="navbar-brand" href="index.html">
                     <img src="img/BILDR-logo.png" class="img-responsive center-block logotipo">
                 </a>
             </div>
@@ -58,10 +58,10 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#nosotros">¿Quiénes somos?</a>
+                        <a href="index.html">¿Quiénes somos?</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#servicios">Servicios</a>
+                        <a href="index.html">Servicios</a>
                     </li>
                     <!--<li class="page-scroll">
                         <a href="#proyectos">Últimos proyectos</a>
@@ -77,7 +77,7 @@
                         </ul>
                       </li>
                     <li class="page-scroll">
-                        <a href="#contacto">Contacto</a>
+                        <a href="index.html">Contacto</a>
                     </li> 
                 </ul>
             </div>
@@ -91,133 +91,49 @@
         
     </header>
 
-    <section class="">
+    <section class="elige-bildr">
     
         <div class="container">
         <div class="row">
-       <center>
-        <div class="col-sm-3 col-md-3">
-            <img src="bildr/bar1.png" class="radius-border"
-             width="280px"
-             height="280px"
-             alt="Boat on Calm Water"/>
-        </div>
-
-        <div class="col-sm-3 col-md-3">
-            <img src="bildr/bar1.png" class="radius-border"
-            width="280px"
-            height="280px"
-            alt="Boat on Calm Water"/>
-        </div>
-
-        <div class="col-sm-3 col-md-3">
-            <img src="bildr/bar1.png" class="radius-border"
-            width="280px"
-            height="280px"
-            alt="Boat on Calm Water"/>
-
-        </div>
-
-        <div class="col-sm-3 col-md-36">
-            <img src="bildr/bar1.png" class="radius-border"
-            width="280px"
-            height="280px"
-            alt="Boat on Calm Water"/>
-            </center>
-        </div> 
-    </div>
-    </section> 
-    
-            <!--<div class="row">
-                <div class="col-md-10 col-md-offset-1">
-                    <br><br><br>
-                    <h3 class="titulares-blancos">
-                    Proyecto la sexta
+        <br><br><br>
+        <h3 class="titulares-blancos">
+                    Proyecto La Sexta
                     </h3> <br><br>
-                </div>
-                    <div class="col-md-4">
-                    <img
-      src="bildr/bar1.png"
-      class="w-100 shadow-1-strong rounded mb-4 zoom radius-border"
-      width="280px"
-      height="280px"
-      alt="Boat on Calm Water"
-      />
-                      
-                        
-                             <br> 
-                        </p>
-                    </div>
-                    <div class="col-md-4">
-                        
-                        <img
-      src="bildr/bar1.png"
-      class="w-100 shadow-1-strong rounded mb-4 zoom radius-border"
-      width="280px"
-      height="280px"
-      alt="Boat on Calm Water"
-      />
-                         <br> 
-                        </p>
-                    </div>
-                    <div class="col-md-4">
-                        
-                        <img
-      src="bildr/bar1.png"
-      class="w-100 shadow-1-strong rounded mb-4 zoom radius-border"
-      width="280px"
-      height="280px"
-      alt="Boat on Calm Water"
-      />
-                            <br> 
-                        </p>
-                    </div>
-                </div>
-                
-            </div>
-
-
-            <div class="row">
-            <div class="col-md-10 col-md-offset-1">
-                    <br><br><br>
-                    
-                </div>
-                    <div class="col-md-4">
-                    <img
-      src="bildr/bar1.png"
-      class="w-100 shadow-1-strong rounded mb-4 zoom radius-border"
-      width="280px"
-      height="280px"
-      alt="Boat on Calm Water"
-      />
-                            <br> 
-                    </div>
-                    <div class="col-md-4">
-                        <img
-      src="bildr/bar1.png"
-      class="w-100 shadow-1-strong rounded mb-4 zoom radius-border"
-      width="280px"
-      height="280px"
-      alt="Boat on Calm Water"
-      />
-                            <br>
-                    </div>
-                    <div class="col-md-4">
-                        <img
-      src="bildr/bar1.png"
-      class="w-100 shadow-1-strong rounded mb-4 zoom radius-border"
-      width="280px"
-      height="280px"
-      alt="Boat on Calm Water"
-      />
-                            <br>
-                    </div>
-                </div>
-            </div>-->
-
-            
-        
-    
+       <center>
+       <!-- Stack the columns on mobile by making one full-width and the other half-width -->
+<div class="row">
+  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_1.png" class="radius-border zoom"
+             width="400px"
+             height="280px"
+             alt="Boat on Calm Water"/></div>
+  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_3.png" class="radius-border zoom"
+             width="400px"
+             height="280px"
+             alt="Boat on Calm Water"/></div>
+  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_5.png" class="radius-border zoom"
+             width="400px"
+             height="280px"
+             alt="Boat on Calm Water"/></div>
+</div>
+<br><br>
+<!-- Columns start at 50% wide on mobile and bump up to 33.3% wide on desktop -->
+<div class="row">
+  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_6.png" class="radius-border zoom"
+             width="400px"
+             height="280px"
+             alt="Boat on Calm Water"/></div>
+  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_4.png" class="radius-border zoom"
+             width="400px"
+             height="280px"
+             alt="Boat on Calm Water"/></div>
+  <div class="col-6 col-md-4"><img src="bildr/sexta/LaSxta_Frente.jpg" class="radius-border zoom"
+             width="400px"
+             height="280px"
+             alt="Boat on Calm Water"/></div>
+</div>
+</div>
+</div>
+</section>
     <!-- Botoón flotante WhatsApp -->
     
     <a href="https://api.whatsapp.com/send?phone=529995933712&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20BILDR." class="floatWapp" target="_blank">
