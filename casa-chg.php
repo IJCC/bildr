@@ -102,15 +102,15 @@
        <center>
        <!-- Stack the columns on mobile by making one full-width and the other half-width -->
 <div class="row">
-  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_1.png" class="radius-border zoom"
+  <div class="col-6 col-md-4"><img src="bildr/chg/CHARRUF26.jpg" class="radius-border zoom"
              width="400px"
              height="280px"
              alt="Boat on Calm Water"/></div>
-  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_3.png" class="radius-border zoom"
+  <div class="col-6 col-md-4"><img src="bildr/chg/CHARRUF30.jpg" class="radius-border zoom"
              width="400px"
              height="280px"
              alt="Boat on Calm Water"/></div>
-  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_5.png" class="radius-border zoom"
+  <div class="col-6 col-md-4"><img src="bildr/chg/CHARRUF36.jpg" class="radius-border zoom"
              width="400px"
              height="280px"
              alt="Boat on Calm Water"/></div>
@@ -118,15 +118,15 @@
 <br><br>
 <!-- Columns start at 50% wide on mobile and bump up to 33.3% wide on desktop -->
 <div class="row">
-  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_6.png" class="radius-border zoom"
+  <div class="col-6 col-md-4"><img src="bildr/chg/CHARRUF38.jpg" class="radius-border zoom"
              width="400px"
              height="280px"
              alt="Boat on Calm Water"/></div>
-  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_4.png" class="radius-border zoom"
+  <div class="col-6 col-md-4"><img src="bildr/chg/CHARRUF42.jpg" class="radius-border zoom"
              width="400px"
              height="280px"
              alt="Boat on Calm Water"/></div>
-  <div class="col-6 col-md-4"><img src="bildr/sexta/LaSxta_Frente.jpg" class="radius-border zoom"
+  <div class="col-6 col-md-4"><img src="bildr/chg/CHARRUF44.jpg" class="radius-border zoom"
              width="400px"
              height="280px"
              alt="Boat on Calm Water"/></div>
