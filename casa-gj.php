@@ -71,7 +71,6 @@
                         <ul class="dropdown-menu" role="menu">
                           <li><a href="la-sexta.php">La Sexta</a></li>                
                           <li><a href="casa-bch.php">Casa BCH</a></li>
-                          <li><a href="bar-cd.php">Bar CD</a></li>
                           <li><a href="casa-chg.php">Casa CHG</a></li>
                           <li><a href="casa-gj.php">Casa GJ</a></li>                
                         </ul>
@@ -97,20 +96,20 @@
         <div class="row">
         <br><br><br>
         <h3 class="titulares-blancos">
-                    Proyecto La Sexta
+                    Proyecto Casa GJ
                     </h3> <br><br>
        <center>
        <!-- Stack the columns on mobile by making one full-width and the other half-width -->
 <div class="row">
-  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_1.png" class="radius-border zoom"
+  <div class="col-6 col-md-4"><img src="bildr/gj/C_MONTEREAL_BILDR2.jpg" class="radius-border zoom"
              width="400px"
              height="280px"
              alt="Boat on Calm Water"/></div>
-  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_3.png" class="radius-border zoom"
+  <div class="col-6 col-md-4"><img src="bildr/gj/C_MONTEREAL_BILDR7.jpg" class="radius-border zoom"
              width="400px"
              height="280px"
              alt="Boat on Calm Water"/></div>
-  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_5.png" class="radius-border zoom"
+  <div class="col-6 col-md-4"><img src="bildr/gj/C_MONTEREAL_BILDR13.jpg" class="radius-border zoom"
              width="400px"
              height="280px"
              alt="Boat on Calm Water"/></div>
@@ -118,15 +117,15 @@
 <br><br>
 <!-- Columns start at 50% wide on mobile and bump up to 33.3% wide on desktop -->
 <div class="row">
-  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_6.png" class="radius-border zoom"
+  <div class="col-6 col-md-4"><img src="bildr/gj/C_MONTEREAL_BILDR19.jpg" class="radius-border zoom"
              width="400px"
              height="280px"
              alt="Boat on Calm Water"/></div>
-  <div class="col-6 col-md-4"><img src="bildr/sexta/La_Sxta_4.png" class="radius-border zoom"
+  <div class="col-6 col-md-4"><img src="bildr/gj/C_MONTEREAL_BILDR24.jpg" class="radius-border zoom"
              width="400px"
              height="280px"
              alt="Boat on Calm Water"/></div>
-  <div class="col-6 col-md-4"><img src="bildr/sexta/LaSxta_Frente.jpg" class="radius-border zoom"
+  <div class="col-6 col-md-4"><img src="bildr/gj/C_MONTEREAL_BILDR25.jpg" class="radius-border zoom"
              width="400px"
              height="280px"
              alt="Boat on Calm Water"/></div>

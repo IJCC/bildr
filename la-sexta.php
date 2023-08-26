@@ -71,7 +71,6 @@
                         <ul class="dropdown-menu" role="menu">
                           <li><a href="la-sexta.php">La Sexta</a></li>                
                           <li><a href="casa-bch.php">Casa BCH</a></li>
-                          <li><a href="bar-cd.php">Bar CD</a></li>
                           <li><a href="casa-chg.php">Casa CHG</a></li>
                           <li><a href="casa-gj.php">Casa GJ</a></li>                
                         </ul>
