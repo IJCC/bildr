@@ -91,9 +91,44 @@
         
     </header>
 
-    <section class="elige-bildr">
+    <section class="">
+    
         <div class="container">
-            <div class="row">
+        <div class="row">
+       <center>
+        <div class="col-sm-3 col-md-3">
+            <img src="bildr/bar1.png" class="radius-border"
+             width="280px"
+             height="280px"
+             alt="Boat on Calm Water"/>
+        </div>
+
+        <div class="col-sm-3 col-md-3">
+            <img src="bildr/bar1.png" class="radius-border"
+            width="280px"
+            height="280px"
+            alt="Boat on Calm Water"/>
+        </div>
+
+        <div class="col-sm-3 col-md-3">
+            <img src="bildr/bar1.png" class="radius-border"
+            width="280px"
+            height="280px"
+            alt="Boat on Calm Water"/>
+
+        </div>
+
+        <div class="col-sm-3 col-md-36">
+            <img src="bildr/bar1.png" class="radius-border"
+            width="280px"
+            height="280px"
+            alt="Boat on Calm Water"/>
+            </center>
+        </div> 
+    </div>
+    </section> 
+    
+            <!--<div class="row">
                 <div class="col-md-10 col-md-offset-1">
                     <br><br><br>
                     <h3 class="titulares-blancos">
@@ -108,7 +143,7 @@
       height="280px"
       alt="Boat on Calm Water"
       />
-                       <!-- <img src="img/iconos/relieve.png" class="img-responsive center-block iconos-blancos">-->
+                      
                         
                              <br> 
                         </p>
@@ -178,11 +213,11 @@
                             <br>
                     </div>
                 </div>
-            </div>
+            </div>-->
 
             
-        </div>
-    </section> 
+        
+    
     <!-- Botoón flotante WhatsApp -->
     
     <a href="https://api.whatsapp.com/send?phone=529995933712&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20BILDR." class="floatWapp" target="_blank">
