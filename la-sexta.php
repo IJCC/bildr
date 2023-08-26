@@ -88,123 +88,99 @@
 
     <!-- Header -->
     <header>
-        <div class="container" id="maincontent" tabindex="-1">
-            <div class="row">
-                <div class="col-md-8 espaciado-query-wide">
-                    <h1 class="espaciado">Especializados en construcción <br>de residencias de lujo y casas <br> con diseño en Mérida</h1>
-                    <div class="contenedor-banner-inicio">
-                        <p>
-                            Experiencia, funcionalidad y estética <br>
-                            en casas de primer nivel
-                        </p>
-                        <li class="page-scroll" style="list-style:none;">
-                            <a href="#servicios" class="btn btn-default btn-lg conoce">Conóce nuestros servicios</a>
-                        </li>
-                    </div>
-                </div>
-                <div class="col-md-2 col-md-offset-1">
-                    <img src="img/logotipo-completo.png" class="img-responsive centr-block logotipo-completo-banner">
-                </div>
-            </div>
-        </div>
+        
     </header>
 
     <section class="elige-bildr">
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
+                    <br><br><br>
                     <h3 class="titulares-blancos">
                     Proyecto la sexta
                     </h3> <br><br>
                 </div>
-                <div class="col-md-1"></div>
-                <div class="col-md-10 col-md-offset-1">
                     <div class="col-md-4">
                     <img
       src="bildr/bar1.png"
-      class="w-100 shadow-1-strong rounded mb-4"
-      width="300px"
-      height="300px"
+      class="w-100 shadow-1-strong rounded mb-4 zoom radius-border"
+      width="280px"
+      height="280px"
       alt="Boat on Calm Water"
       />
                        <!-- <img src="img/iconos/relieve.png" class="img-responsive center-block iconos-blancos">-->
-                        <p class="titulares-blancos">
-                            Conocimiento del <br> terreno/relieve de Yucatán
+                        
+                             <br> 
                         </p>
                     </div>
                     <div class="col-md-4">
-                        <p class="titulares-blancos">
+                        
                         <img
       src="bildr/bar1.png"
-      class="w-100 shadow-1-strong rounded mb-4"
-      width="300px"
-      height="300px"
+      class="w-100 shadow-1-strong rounded mb-4 zoom radius-border"
+      width="280px"
+      height="280px"
       alt="Boat on Calm Water"
       />
-                            Conocimiento del <br> clima de Yucatán
+                         <br> 
                         </p>
                     </div>
                     <div class="col-md-4">
-                        <p class="titulares-blancos">
+                        
                         <img
       src="bildr/bar1.png"
-      class="w-100 shadow-1-strong rounded mb-4"
-      width="300px"
-      height="300px"
+      class="w-100 shadow-1-strong rounded mb-4 zoom radius-border"
+      width="280px"
+      height="280px"
       alt="Boat on Calm Water"
       />
-                            Respeto al proyecto <br> arquitectónico
+                            <br> 
                         </p>
                     </div>
                 </div>
-                <div class="col-md-1"></div>
+                
             </div>
 
 
             <div class="row">
-                <div class="col-md-1"></div>
-                <div class="col-md-10">
+            <div class="col-md-10 col-md-offset-1">
+                    <br><br><br>
+                    
+                </div>
                     <div class="col-md-4">
                     <img
       src="bildr/bar1.png"
-      class="w-100 shadow-1-strong rounded mb-4"
-      width="300px"
-      height="300px"
+      class="w-100 shadow-1-strong rounded mb-4 zoom radius-border"
+      width="280px"
+      height="280px"
       alt="Boat on Calm Water"
       />
-                        <p class="titulares-blancos">
-                            Materiales y tecnologías de <br> primer nivel
-                        </p>
+                            <br> 
                     </div>
                     <div class="col-md-4">
-                        <p class="titulares-blancos">
                         <img
       src="bildr/bar1.png"
-      class="w-100 shadow-1-strong rounded mb-4"
-      width="300px"
-      height="300px"
+      class="w-100 shadow-1-strong rounded mb-4 zoom radius-border"
+      width="280px"
+      height="280px"
       alt="Boat on Calm Water"
       />
-                            Asesoría constante 
-                        </p>
+                            <br>
                     </div>
                     <div class="col-md-4">
-                        <p class="titulares-blancos">
                         <img
       src="bildr/bar1.png"
-      class="w-100 shadow-1-strong rounded mb-4"
-      width="300px"
-      height="300px"
+      class="w-100 shadow-1-strong rounded mb-4 zoom radius-border"
+      width="280px"
+      height="280px"
       alt="Boat on Calm Water"
       />
-                            Hacemos que tu <br>presupuesto rinda
-                        </p>
+                            <br>
                     </div>
                 </div>
-                <div class="col-md-1"></div>
             </div>
 
-
+            
         </div>
     </section> 
     <!-- Botoón flotante WhatsApp -->
