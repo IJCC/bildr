@@ -63,11 +63,8 @@
                     <li class="page-scroll">
                         <a href="index.html">Servicios</a>
                     </li>
-                    <!--<li class="page-scroll">
-                        <a href="#proyectos">Últimos proyectos</a>
-                    </li>-->
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" id="desplegable" data-toggle="dropdown">Proyectos<span class="fa fa-angle-down"></span></a>
+                        <a href="" class="dropdown-toggle" id="desplegable" data-toggle="dropdown">Proyectos<span class="fa fa-angle-down"></span></a>
                         <ul class="dropdown-menu" role="menu">
                           <li><a href="la-sexta.php">La Sexta</a></li>                
                           <li><a href="casa-bch.php">Casa BCH</a></li>
@@ -77,7 +74,8 @@
                       </li>
                     <li class="page-scroll">
                         <a href="index.html">Contacto</a>
-                    </li> 
+                    </li>
+                     
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -215,12 +213,14 @@
     });
       </script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+     <!-- Bootstrap Core JavaScript -->
+     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
     <!-- Plugin JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
     <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
     <script src="assets/vendor/php-email-form/validate.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <!-- Contact Form JavaScript -->
     <script src="js/jqBootstrapValidation.js"></script>
     <script src="js/contact_me.js"></script>
